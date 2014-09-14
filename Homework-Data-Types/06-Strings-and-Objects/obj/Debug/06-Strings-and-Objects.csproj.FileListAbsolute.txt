@@ -1,0 +1,5 @@
+C:\Users\vasil\Documents\Visual Studio 2013\Projects\Homework-Data-Types\06-Strings-and-Objects\bin\Debug\06-Strings-and-Objects.exe.config
+C:\Users\vasil\Documents\Visual Studio 2013\Projects\Homework-Data-Types\06-Strings-and-Objects\bin\Debug\06-Strings-and-Objects.exe
+C:\Users\vasil\Documents\Visual Studio 2013\Projects\Homework-Data-Types\06-Strings-and-Objects\bin\Debug\06-Strings-and-Objects.pdb
+C:\Users\vasil\Documents\Visual Studio 2013\Projects\Homework-Data-Types\06-Strings-and-Objects\obj\Debug\06-Strings-and-Objects.exe
+C:\Users\vasil\Documents\Visual Studio 2013\Projects\Homework-Data-Types\06-Strings-and-Objects\obj\Debug\06-Strings-and-Objects.pdb

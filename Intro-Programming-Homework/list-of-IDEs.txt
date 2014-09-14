@@ -1,0 +1,31 @@
+Visual Studio
+Netbeans
+Eclipse
+Webstorm
+Aptana
+
+1.Visual Studio
+
+This is the IDE desigend by Windows for developing Windows apps.
+It is used when writing on c# , F# and basicly the whole .NET platform.
+Like everything that has come from Micrososft - it's not free . The full version of the product costs 500$.
+
+2. Netbeans
+
+The is the IDE that is optimized to work with the Java language.Of course you could write everything else on it too- HTML, PHP , RUBY , C ..etc.
+ITs under the GNU General Public License so its free to use .Created by Oracle
+
+3.Eclipse
+
+Very similar to Netbeans . The difference it that while Netbeans is optimizad for one language and just supports the other. 
+Eclispe offeres different version of the product for the different languages.
+It is also a free software.
+
+4.Webstorm C
+Created by JetBrains.It's designed to be used for web-development. It is claimed to be the best Javascript IDE there is.
+A downside is only that it's not free.It runs pretty smooth.
+
+5.Aptana
+Another IDE dsigned for WEB , only this one is Free and a little less powerfull.It's mostly used for Ruby on Rails , Adobe AIR , PHP and so on.
+
+

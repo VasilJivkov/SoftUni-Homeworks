@@ -1,0 +1,2 @@
+So from what I understood the .NET is a library . and C# is the programming language that uses those librarys . It's a little bit confusing for me and to be honest I Would love
+a Lecture that explains the whole structure of the .Net framework. 

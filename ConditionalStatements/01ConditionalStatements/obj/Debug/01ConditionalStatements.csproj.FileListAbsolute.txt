@@ -1,0 +1,6 @@
+C:\Users\vasil\Desktop\Intro-Programming-Homework\ConditionalStatements\01ConditionalStatements\bin\Debug\01ConditionalStatements.exe.config
+C:\Users\vasil\Desktop\Intro-Programming-Homework\ConditionalStatements\01ConditionalStatements\bin\Debug\01ConditionalStatements.exe
+C:\Users\vasil\Desktop\Intro-Programming-Homework\ConditionalStatements\01ConditionalStatements\bin\Debug\01ConditionalStatements.pdb
+C:\Users\vasil\Desktop\Intro-Programming-Homework\ConditionalStatements\01ConditionalStatements\obj\Debug\01ConditionalStatements.csprojResolveAssemblyReference.cache
+C:\Users\vasil\Desktop\Intro-Programming-Homework\ConditionalStatements\01ConditionalStatements\obj\Debug\01ConditionalStatements.exe
+C:\Users\vasil\Desktop\Intro-Programming-Homework\ConditionalStatements\01ConditionalStatements\obj\Debug\01ConditionalStatements.pdb

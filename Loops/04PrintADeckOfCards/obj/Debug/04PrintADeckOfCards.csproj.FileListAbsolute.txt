@@ -1,0 +1,6 @@
+C:\Users\vasil\Desktop\Intro-Programming-Homework\Loops\04PrintADeckOfCards\bin\Debug\04PrintADeckOfCards.exe.config
+C:\Users\vasil\Desktop\Intro-Programming-Homework\Loops\04PrintADeckOfCards\bin\Debug\04PrintADeckOfCards.exe
+C:\Users\vasil\Desktop\Intro-Programming-Homework\Loops\04PrintADeckOfCards\bin\Debug\04PrintADeckOfCards.pdb
+C:\Users\vasil\Desktop\Intro-Programming-Homework\Loops\04PrintADeckOfCards\obj\Debug\04PrintADeckOfCards.csprojResolveAssemblyReference.cache
+C:\Users\vasil\Desktop\Intro-Programming-Homework\Loops\04PrintADeckOfCards\obj\Debug\04PrintADeckOfCards.exe
+C:\Users\vasil\Desktop\Intro-Programming-Homework\Loops\04PrintADeckOfCards\obj\Debug\04PrintADeckOfCards.pdb

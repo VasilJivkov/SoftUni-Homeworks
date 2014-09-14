@@ -1,0 +1,6 @@
+C:\Users\vasil\Documents\Visual Studio 2013\Projects\Homework-Data-Types\04-Unicode-Character\bin\Debug\04-Unicode-Character.exe.config
+C:\Users\vasil\Documents\Visual Studio 2013\Projects\Homework-Data-Types\04-Unicode-Character\obj\Debug\04-Unicode-Character.csprojResolveAssemblyReference.cache
+C:\Users\vasil\Documents\Visual Studio 2013\Projects\Homework-Data-Types\04-Unicode-Character\bin\Debug\04-Unicode-Character.exe
+C:\Users\vasil\Documents\Visual Studio 2013\Projects\Homework-Data-Types\04-Unicode-Character\bin\Debug\04-Unicode-Character.pdb
+C:\Users\vasil\Documents\Visual Studio 2013\Projects\Homework-Data-Types\04-Unicode-Character\obj\Debug\04-Unicode-Character.exe
+C:\Users\vasil\Documents\Visual Studio 2013\Projects\Homework-Data-Types\04-Unicode-Character\obj\Debug\04-Unicode-Character.pdb

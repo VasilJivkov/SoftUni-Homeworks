@@ -1,0 +1,6 @@
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\05ThirdDigit7\bin\Debug\05ThirdDigit7.exe.config
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\05ThirdDigit7\bin\Debug\05ThirdDigit7.exe
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\05ThirdDigit7\bin\Debug\05ThirdDigit7.pdb
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\05ThirdDigit7\obj\Debug\05ThirdDigit7.csprojResolveAssemblyReference.cache
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\05ThirdDigit7\obj\Debug\05ThirdDigit7.exe
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\05ThirdDigit7\obj\Debug\05ThirdDigit7.pdb

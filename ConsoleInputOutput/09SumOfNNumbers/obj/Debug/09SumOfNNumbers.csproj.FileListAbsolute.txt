@@ -1,0 +1,6 @@
+C:\Users\vasil\Desktop\Intro-Programming-Homework\ConsoleInputOutput\09SumOfNNumbers\bin\Debug\09SumOfNNumbers.exe.config
+C:\Users\vasil\Desktop\Intro-Programming-Homework\ConsoleInputOutput\09SumOfNNumbers\bin\Debug\09SumOfNNumbers.exe
+C:\Users\vasil\Desktop\Intro-Programming-Homework\ConsoleInputOutput\09SumOfNNumbers\bin\Debug\09SumOfNNumbers.pdb
+C:\Users\vasil\Desktop\Intro-Programming-Homework\ConsoleInputOutput\09SumOfNNumbers\obj\Debug\09SumOfNNumbers.csprojResolveAssemblyReference.cache
+C:\Users\vasil\Desktop\Intro-Programming-Homework\ConsoleInputOutput\09SumOfNNumbers\obj\Debug\09SumOfNNumbers.exe
+C:\Users\vasil\Desktop\Intro-Programming-Homework\ConsoleInputOutput\09SumOfNNumbers\obj\Debug\09SumOfNNumbers.pdb

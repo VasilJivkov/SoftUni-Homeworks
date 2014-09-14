@@ -1,0 +1,5 @@
+C:\Users\vasil\Desktop\Intro-Programming-Homework\ConsoleInputOutput\04NumberComparer\bin\Debug\04NumberComparer.exe.config
+C:\Users\vasil\Desktop\Intro-Programming-Homework\ConsoleInputOutput\04NumberComparer\bin\Debug\04NumberComparer.exe
+C:\Users\vasil\Desktop\Intro-Programming-Homework\ConsoleInputOutput\04NumberComparer\bin\Debug\04NumberComparer.pdb
+C:\Users\vasil\Desktop\Intro-Programming-Homework\ConsoleInputOutput\04NumberComparer\obj\Debug\04NumberComparer.exe
+C:\Users\vasil\Desktop\Intro-Programming-Homework\ConsoleInputOutput\04NumberComparer\obj\Debug\04NumberComparer.pdb

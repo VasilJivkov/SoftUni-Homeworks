@@ -1,0 +1,6 @@
+C:\Users\vasil\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\PrintASequence\bin\Debug\PrintASequence.exe.config
+C:\Users\vasil\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\PrintASequence\bin\Debug\PrintASequence.exe
+C:\Users\vasil\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\PrintASequence\bin\Debug\PrintASequence.pdb
+C:\Users\vasil\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\PrintASequence\obj\Debug\PrintASequence.exe
+C:\Users\vasil\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\PrintASequence\obj\Debug\PrintASequence.pdb
+C:\Users\vasil\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\PrintASequence\obj\Debug\PrintASequence.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\vasil\Desktop\Intro-Programming-Homework\ConsoleInputOutput\03CirclePerAndArea\bin\Debug\03CirclePerAndArea.exe.config
+C:\Users\vasil\Desktop\Intro-Programming-Homework\ConsoleInputOutput\03CirclePerAndArea\bin\Debug\03CirclePerAndArea.exe
+C:\Users\vasil\Desktop\Intro-Programming-Homework\ConsoleInputOutput\03CirclePerAndArea\bin\Debug\03CirclePerAndArea.pdb
+C:\Users\vasil\Desktop\Intro-Programming-Homework\ConsoleInputOutput\03CirclePerAndArea\obj\Debug\03CirclePerAndArea.exe
+C:\Users\vasil\Desktop\Intro-Programming-Homework\ConsoleInputOutput\03CirclePerAndArea\obj\Debug\03CirclePerAndArea.pdb

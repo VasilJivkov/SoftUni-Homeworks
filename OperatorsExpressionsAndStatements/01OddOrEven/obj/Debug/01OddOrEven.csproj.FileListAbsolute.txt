@@ -1,0 +1,5 @@
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\01OddOrEven\bin\Debug\01OddOrEven.exe.config
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\01OddOrEven\bin\Debug\01OddOrEven.exe
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\01OddOrEven\bin\Debug\01OddOrEven.pdb
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\01OddOrEven\obj\Debug\01OddOrEven.exe
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\01OddOrEven\obj\Debug\01OddOrEven.pdb

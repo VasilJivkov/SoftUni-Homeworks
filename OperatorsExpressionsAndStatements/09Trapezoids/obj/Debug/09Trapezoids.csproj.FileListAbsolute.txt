@@ -1,0 +1,5 @@
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\09Trapezoids\bin\Debug\09Trapezoids.exe.config
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\09Trapezoids\bin\Debug\09Trapezoids.exe
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\09Trapezoids\bin\Debug\09Trapezoids.pdb
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\09Trapezoids\obj\Debug\09Trapezoids.exe
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\09Trapezoids\obj\Debug\09Trapezoids.pdb

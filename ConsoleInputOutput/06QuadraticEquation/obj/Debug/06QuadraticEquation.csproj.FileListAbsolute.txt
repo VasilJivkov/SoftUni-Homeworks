@@ -1,0 +1,5 @@
+C:\Users\vasil\Desktop\Intro-Programming-Homework\ConsoleInputOutput\06QuadraticEquation\bin\Debug\06QuadraticEquation.exe.config
+C:\Users\vasil\Desktop\Intro-Programming-Homework\ConsoleInputOutput\06QuadraticEquation\bin\Debug\06QuadraticEquation.exe
+C:\Users\vasil\Desktop\Intro-Programming-Homework\ConsoleInputOutput\06QuadraticEquation\bin\Debug\06QuadraticEquation.pdb
+C:\Users\vasil\Desktop\Intro-Programming-Homework\ConsoleInputOutput\06QuadraticEquation\obj\Debug\06QuadraticEquation.exe
+C:\Users\vasil\Desktop\Intro-Programming-Homework\ConsoleInputOutput\06QuadraticEquation\obj\Debug\06QuadraticEquation.pdb

@@ -1,0 +1,6 @@
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\11BitwiseExtractBit3\bin\Debug\11BitwiseExtractBit3.exe.config
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\11BitwiseExtractBit3\bin\Debug\11BitwiseExtractBit3.exe
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\11BitwiseExtractBit3\bin\Debug\11BitwiseExtractBit3.pdb
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\11BitwiseExtractBit3\obj\Debug\11BitwiseExtractBit3.csprojResolveAssemblyReference.cache
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\11BitwiseExtractBit3\obj\Debug\11BitwiseExtractBit3.exe
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\11BitwiseExtractBit3\obj\Debug\11BitwiseExtractBit3.pdb

@@ -1,0 +1,6 @@
+C:\Users\vasil\Documents\Visual Studio 2013\Projects\Homework-Data-Types\VarHexadecimal\bin\Debug\VarHexadecimal.exe.config
+C:\Users\vasil\Documents\Visual Studio 2013\Projects\Homework-Data-Types\VarHexadecimal\bin\Debug\VarHexadecimal.exe
+C:\Users\vasil\Documents\Visual Studio 2013\Projects\Homework-Data-Types\VarHexadecimal\bin\Debug\VarHexadecimal.pdb
+C:\Users\vasil\Documents\Visual Studio 2013\Projects\Homework-Data-Types\VarHexadecimal\obj\Debug\VarHexadecimal.csprojResolveAssemblyReference.cache
+C:\Users\vasil\Documents\Visual Studio 2013\Projects\Homework-Data-Types\VarHexadecimal\obj\Debug\VarHexadecimal.exe
+C:\Users\vasil\Documents\Visual Studio 2013\Projects\Homework-Data-Types\VarHexadecimal\obj\Debug\VarHexadecimal.pdb

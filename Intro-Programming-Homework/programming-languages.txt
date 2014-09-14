@@ -1,0 +1,19 @@
+The 5 most popular programming languages are: C , Java , Objactive-C , C++ and C#.
+
+C is created by Dennis Ritchie. You could say that C sets the beginning of the modern programming.
+The other four most used programming languages have borrowed from and have been influenced alot by C.
+It provides a great speed and performance.
+
+Java, created by James Gosling and realised in 1995. It's basic idea is to be the WORA language (write once  run anywhere).
+It runns on everything because it compiles to bytecode. In 2010 since Oracle bought Sun Mincrosistems the language is beeing developed by Oracle.
+Fun fact is that what was in 1991 designed to be used for television is now the language beeing used by 8 million developers.
+
+Objective-C 
+Developed in 1980 .Influenced by C of course , is the Programming language that drives the Apple operating systems OS X and iOS.
+Untill last month it was the main programming language for OS X and iOS applications , but since this years Apple Worldwide Developer Conference (WWDC) they
+reliased their own sort of version of Objactive-C called Swift".
+
+C++ -developed by Bjarne Stroustrup in  1985 . It is based on C and was intended to be sort of like the next version of C . 
+Its the language used to write comercial programs that run on your computer.
+
+C# is a programming langueage developed by microsoft when releasing the .Net platform . It was the answer from Microsoft on the Java success at the time.

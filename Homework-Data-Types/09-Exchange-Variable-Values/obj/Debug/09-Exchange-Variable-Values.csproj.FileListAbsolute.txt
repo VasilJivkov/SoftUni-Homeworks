@@ -1,0 +1,5 @@
+C:\Users\vasil\Documents\Visual Studio 2013\Projects\Homework-Data-Types\09-Exchange-Variable-Values\bin\Debug\09-Exchange-Variable-Values.exe.config
+C:\Users\vasil\Documents\Visual Studio 2013\Projects\Homework-Data-Types\09-Exchange-Variable-Values\bin\Debug\09-Exchange-Variable-Values.exe
+C:\Users\vasil\Documents\Visual Studio 2013\Projects\Homework-Data-Types\09-Exchange-Variable-Values\bin\Debug\09-Exchange-Variable-Values.pdb
+C:\Users\vasil\Documents\Visual Studio 2013\Projects\Homework-Data-Types\09-Exchange-Variable-Values\obj\Debug\09-Exchange-Variable-Values.exe
+C:\Users\vasil\Documents\Visual Studio 2013\Projects\Homework-Data-Types\09-Exchange-Variable-Values\obj\Debug\09-Exchange-Variable-Values.pdb

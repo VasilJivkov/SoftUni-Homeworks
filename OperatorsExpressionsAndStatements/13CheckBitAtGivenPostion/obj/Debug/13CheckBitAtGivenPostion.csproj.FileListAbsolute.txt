@@ -1,0 +1,5 @@
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\13CheckBitAtGivenPostion\bin\Debug\13CheckBitAtGivenPostion.exe.config
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\13CheckBitAtGivenPostion\bin\Debug\13CheckBitAtGivenPostion.exe
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\13CheckBitAtGivenPostion\bin\Debug\13CheckBitAtGivenPostion.pdb
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\13CheckBitAtGivenPostion\obj\Debug\13CheckBitAtGivenPostion.exe
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\13CheckBitAtGivenPostion\obj\Debug\13CheckBitAtGivenPostion.pdb

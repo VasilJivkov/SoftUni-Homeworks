@@ -1,0 +1,6 @@
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\08PrimeNumberCheck\bin\Debug\08PrimeNumberCheck.exe.config
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\08PrimeNumberCheck\bin\Debug\08PrimeNumberCheck.exe
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\08PrimeNumberCheck\bin\Debug\08PrimeNumberCheck.pdb
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\08PrimeNumberCheck\obj\Debug\08PrimeNumberCheck.csprojResolveAssemblyReference.cache
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\08PrimeNumberCheck\obj\Debug\08PrimeNumberCheck.exe
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\08PrimeNumberCheck\obj\Debug\08PrimeNumberCheck.pdb

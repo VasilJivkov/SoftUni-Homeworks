@@ -1,0 +1,6 @@
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\06Four-DigitNumber\bin\Debug\06Four-DigitNumber.exe.config
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\06Four-DigitNumber\bin\Debug\06Four-DigitNumber.exe
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\06Four-DigitNumber\bin\Debug\06Four-DigitNumber.pdb
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\06Four-DigitNumber\obj\Debug\06Four-DigitNumber.csprojResolveAssemblyReference.cache
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\06Four-DigitNumber\obj\Debug\06Four-DigitNumber.exe
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\06Four-DigitNumber\obj\Debug\06Four-DigitNumber.pdb

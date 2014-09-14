@@ -1,0 +1,5 @@
+C:\Users\vasil\Documents\Visual Studio 2013\Projects\Homework-Data-Types\05-Boolean-Variable\bin\Debug\05-Boolean-Variable.exe.config
+C:\Users\vasil\Documents\Visual Studio 2013\Projects\Homework-Data-Types\05-Boolean-Variable\bin\Debug\05-Boolean-Variable.exe
+C:\Users\vasil\Documents\Visual Studio 2013\Projects\Homework-Data-Types\05-Boolean-Variable\bin\Debug\05-Boolean-Variable.pdb
+C:\Users\vasil\Documents\Visual Studio 2013\Projects\Homework-Data-Types\05-Boolean-Variable\obj\Debug\05-Boolean-Variable.exe
+C:\Users\vasil\Documents\Visual Studio 2013\Projects\Homework-Data-Types\05-Boolean-Variable\obj\Debug\05-Boolean-Variable.pdb

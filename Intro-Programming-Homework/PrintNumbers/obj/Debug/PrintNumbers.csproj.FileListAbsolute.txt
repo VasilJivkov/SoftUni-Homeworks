@@ -1,0 +1,5 @@
+C:\Users\vasil\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+C:\Users\vasil\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.exe
+C:\Users\vasil\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.pdb
+C:\Users\vasil\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\Users\vasil\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.pdb

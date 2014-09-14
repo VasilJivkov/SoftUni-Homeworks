@@ -1,0 +1,6 @@
+C:\Users\vasil\Desktop\Intro-Programming-Homework\ConditionalStatements\03CheckForACardPlay\bin\Debug\03CheckForACardPlay.exe.config
+C:\Users\vasil\Desktop\Intro-Programming-Homework\ConditionalStatements\03CheckForACardPlay\bin\Debug\03CheckForACardPlay.exe
+C:\Users\vasil\Desktop\Intro-Programming-Homework\ConditionalStatements\03CheckForACardPlay\bin\Debug\03CheckForACardPlay.pdb
+C:\Users\vasil\Desktop\Intro-Programming-Homework\ConditionalStatements\03CheckForACardPlay\obj\Debug\03CheckForACardPlay.csprojResolveAssemblyReference.cache
+C:\Users\vasil\Desktop\Intro-Programming-Homework\ConditionalStatements\03CheckForACardPlay\obj\Debug\03CheckForACardPlay.exe
+C:\Users\vasil\Desktop\Intro-Programming-Homework\ConditionalStatements\03CheckForACardPlay\obj\Debug\03CheckForACardPlay.pdb

@@ -1,0 +1,5 @@
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\14ModifyBitAtPosition\bin\Debug\14ModifyBitAtPosition.exe.config
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\14ModifyBitAtPosition\bin\Debug\14ModifyBitAtPosition.exe
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\14ModifyBitAtPosition\bin\Debug\14ModifyBitAtPosition.pdb
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\14ModifyBitAtPosition\obj\Debug\14ModifyBitAtPosition.exe
+C:\Users\vasil\Desktop\Intro-Programming-Homework\03DivideBy7And5\14ModifyBitAtPosition\obj\Debug\14ModifyBitAtPosition.pdb

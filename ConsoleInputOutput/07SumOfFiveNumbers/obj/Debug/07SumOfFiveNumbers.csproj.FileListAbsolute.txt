@@ -1,0 +1,6 @@
+C:\Users\vasil\Desktop\Intro-Programming-Homework\ConsoleInputOutput\07SumOfFiveNumbers\bin\Debug\07SumOfFiveNumbers.exe.config
+C:\Users\vasil\Desktop\Intro-Programming-Homework\ConsoleInputOutput\07SumOfFiveNumbers\bin\Debug\07SumOfFiveNumbers.exe
+C:\Users\vasil\Desktop\Intro-Programming-Homework\ConsoleInputOutput\07SumOfFiveNumbers\bin\Debug\07SumOfFiveNumbers.pdb
+C:\Users\vasil\Desktop\Intro-Programming-Homework\ConsoleInputOutput\07SumOfFiveNumbers\obj\Debug\07SumOfFiveNumbers.csprojResolveAssemblyReference.cache
+C:\Users\vasil\Desktop\Intro-Programming-Homework\ConsoleInputOutput\07SumOfFiveNumbers\obj\Debug\07SumOfFiveNumbers.exe
+C:\Users\vasil\Desktop\Intro-Programming-Homework\ConsoleInputOutput\07SumOfFiveNumbers\obj\Debug\07SumOfFiveNumbers.pdb

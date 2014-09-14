@@ -1,0 +1,5 @@
+C:\Users\vasil\Documents\Visual Studio 2013\Projects\Homework-Data-Types\07-Quotes-in-Strings\bin\Debug\07-Quotes-in-Strings.exe.config
+C:\Users\vasil\Documents\Visual Studio 2013\Projects\Homework-Data-Types\07-Quotes-in-Strings\bin\Debug\07-Quotes-in-Strings.exe
+C:\Users\vasil\Documents\Visual Studio 2013\Projects\Homework-Data-Types\07-Quotes-in-Strings\bin\Debug\07-Quotes-in-Strings.pdb
+C:\Users\vasil\Documents\Visual Studio 2013\Projects\Homework-Data-Types\07-Quotes-in-Strings\obj\Debug\07-Quotes-in-Strings.exe
+C:\Users\vasil\Documents\Visual Studio 2013\Projects\Homework-Data-Types\07-Quotes-in-Strings\obj\Debug\07-Quotes-in-Strings.pdb
